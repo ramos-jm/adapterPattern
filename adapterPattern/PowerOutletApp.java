@@ -1,4 +1,4 @@
-package SoftEng1.adapaterPattern;
+package adapterPattern;
 
 import java.util.Scanner;
 

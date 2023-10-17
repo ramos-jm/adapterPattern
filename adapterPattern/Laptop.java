@@ -1,4 +1,4 @@
-package SoftEng1.adapaterPattern;
+package adapterPattern;
 
 public class Laptop {
     public String charge(){

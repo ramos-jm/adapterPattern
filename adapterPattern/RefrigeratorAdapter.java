@@ -1,4 +1,4 @@
-package SoftEng1.adapaterPattern;
+package adapterPattern;
 
 public class RefrigeratorAdapter implements PowerOutlet {
     private Refrigerator refrigerator;
